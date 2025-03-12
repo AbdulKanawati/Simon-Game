@@ -1,7 +1,7 @@
 # Simon Game
 
 This is a web-based implementation of the classic **Simon Game**, where players need to memorize and repeat a series of color patterns that increase in complexity with each round.
-https://abdulkanawati.github.io/s/
+https://abdulkanawati.github.io/Simon-Game/
 
 ## Table of Contents
 - [Features](#features)
